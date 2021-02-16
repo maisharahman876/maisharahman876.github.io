@@ -648,8 +648,8 @@ section .container {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: #4ddad2;
+  border: 2px solid #4ddad2;
 }
 
 /*--------------------------------------------------------------
@@ -900,7 +900,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: #4ddad2;
   border-radius: 50%;
   padding: 14px;
   float: left;
