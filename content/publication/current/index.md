@@ -18,7 +18,7 @@ authors:
 # publication: ""
 # publication_short: ""
 
-Summary : Currently working on quantum cryptography aiming to improve Quantum Key Distribution (QKD) Algorithms. Though we don’t have anything significant yet, I am hoping that we will get a great outcome from our research.
+Abstract : Currently working on quantum cryptography aiming to improve Quantum Key Distribution (QKD) Algorithms. Though we don’t have anything significant yet, I am hoping that we will get a great outcome from our research.
 
 
 
