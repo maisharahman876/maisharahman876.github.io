@@ -1,9 +1,8 @@
 ---
-title: "Blockchain in Healthcare - Efficiently Storing and Sharing Patient Health Data"
+title: "Quantum Computing"
 authors:
 - admin
-- Kawshik Kumar Paul
-- Tanzim Hossain Romel
+- Iftekhar Hakim Kaowsar
 # date: "2019-04-07T00:00:00Z"
 # doi: ""
 
@@ -13,13 +12,13 @@ authors:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Targeting to submit it in an upcoming conference"]
+# publication_types: ["Targeting to submit it in an upcoming conference"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
 # publication_short: ""
 
-abstract: The sharing of personal health records can be beneficial to diagnosis and medical research. Currently most of the health record schemes are fully dependent on third-party cloud service providers, which is not secure enough because there is a high risk of leaking confidential health data. Blockchain provides a better solution for storing and sharing data because of its decentralized and tamper-proof features. We proposed a new Blockchain-based personal healthcare data storage and sharing scheme. We used highly secure and efficient encryption-decryption mechanisms along with blockchain to tackle the risk of privacy disclosure.
+Summary : Currently working on quantum cryptography aiming to improve Quantum Key Distribution (QKD) Algorithms. Though we don’t have anything significant yet, I am hoping that we will get a great outcome from our research.
 
 
 
@@ -27,7 +26,7 @@ abstract: The sharing of personal health records can be beneficial to diagnosis 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Blockchain
+- Quantum Computing
 - Cryptography
 
 featured: true
