@@ -163,7 +163,7 @@ awards:
       Scholarship grantedfor outstanding performance in the Secondary School Certificate exam of Bangladesh.
   - title: Barishal Board General Scholarship (JSC)
     awarder: Government
-    date: '2012-11-5'
+    date: '2012-11-05'
     #icon: edx
     summary: |
       Scholarship granted for outstanding performance in the Junior School Certificate exam of Bangladesh.
