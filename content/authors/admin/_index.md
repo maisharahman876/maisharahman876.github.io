@@ -85,6 +85,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+id: skills
   - name: Technical Skills
     items:
       - name: Programming Languages
@@ -102,7 +103,7 @@ skills:
       - name: Operating Systems
         description: 'Windows, Linux (Ubuntu 20.04 & Kali)'
         percent: 80
-        icon: devices
+        icon: code-bracket
       - name : Version Control
         description: ' Git'
         percent: 80
