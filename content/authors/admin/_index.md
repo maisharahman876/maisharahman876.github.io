@@ -157,6 +157,4 @@ awards:
 
 ## About Me
 
-I am a self-motivated doctoral candidate driven by a deep love for Security, Cryptography and Software Engineering.
-I exhibit steadfast focus and determination to achieve my goals. I’m determined to leverage my enthusiasm and work
-ethic to make significant contributions to my area of interest.
+I am a Maisha. I am a Software Engineer and a doctoral candidate. I am a very hard working and passionate person. I love to explore new things - take challenges and gather new experiences. I like to work in a team and lead people. 
