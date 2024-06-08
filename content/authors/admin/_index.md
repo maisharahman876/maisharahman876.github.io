@@ -102,15 +102,16 @@ skills:
       - name: Windows, Linux (Ubuntu 20.04 & Kali)
         description: ''
         percent: 40
-        icon: circle-stack
-      - name: Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: circle-stac
       - name : Git
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: fa-brands fa-git
+      - name: Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket
+        description: ''
+        percent: 40
+        icon: extension
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
