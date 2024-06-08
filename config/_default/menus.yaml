@@ -15,12 +15,12 @@ main:
     weight: 12
   - name: Skills
     url: experience/#skills
+    weight: 14
+
+
+  - name: Projects
+    url: projects/
     weight: 13
-
-
-#   - name: Projects
-#     url: projects/
-#     weight: 30
 
   - name: Honors
     url: experience/#honors
