@@ -93,24 +93,24 @@ skills:
         icon: code-bracket
       - name: Frameworks
         description: 'Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap'
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: code-bracket
       - name: Database
         description: 'Oracle , MongoDB, MySQL, PostgreSQL'
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: code-bracket
       - name: Operating Systems
         description: 'Windows, Linux (Ubuntu 20.04 & Kali)'
-        percent: 40
+        percent: 80
         icon: devices
       - name : Version Control
         description: ' Git'
-        percent: 40
-        icon: fa-brands fa-git
+        percent: 80
+        icon: code-bracket
       - name: Others
         description: 'Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket'
-        percent: 40
-        icon: extension
+        percent: 80
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
@@ -122,12 +122,12 @@ skills:
         icon: person-simple-walk
       - name: Gardening
         description: ''
-        percent: 100
-        icon: cat
+        percent: 60
+        icon: person-simple-walk
       - name: Painting
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: person-simple-walk
 
 languages:
   - name: English
