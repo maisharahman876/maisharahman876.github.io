@@ -38,13 +38,15 @@ sections:
         
         I am so passionate about research. Though I have a full time job, I love to manage time for my research.
         Besides, my research interests align to my job. I leverage my extensive industry experience  to enrich my ongoing research endeavors. By integrating real-world challenges and insights gained from my professional work, I ensure that my research remains relevant, practical, and impactful. 
+        
+        
         Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
     id: research
     content:
-      title: Research Experiences
+      title: Research Experience
       text: ""
       filters:
         folders:

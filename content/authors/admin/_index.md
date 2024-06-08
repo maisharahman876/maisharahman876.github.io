@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maisha
+title: Maisha Rahman Mim
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
