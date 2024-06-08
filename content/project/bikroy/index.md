@@ -3,7 +3,7 @@ title: E-commerce Website
 # date: 2023-08-26
 external_link: https://github.com/maisharahman876/bikroy
 tags:
-  - Django,
+  - Django
   - Oracle
   - Bootstrap
   - Javascript

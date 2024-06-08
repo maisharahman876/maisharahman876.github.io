@@ -1,6 +1,6 @@
 ---
 title: Social Media - Instagram
-# date: 2023-08-26
+date: 2023-08-26
 external_link: https://bitbucket.org/training-therap/final-assignment-instagram/src/DEV/
 tags:
   - Spring MVC

@@ -3,6 +3,7 @@ title: Travel Bug - A Travelling Website
 # date: 2022-11-03
 external_link: https://github.com/maisharahman876/CSE-408-Project-Travel-Bug
 tags:
+  - MERN Stack
   - MongoDB
   - Express.js
   - React.js
