@@ -102,7 +102,7 @@ skills:
       - name: Windows, Linux (Ubuntu 20.04 & Kali)
         description: ''
         percent: 40
-        icon: devices.svg
+        icon: devices
       - name : Git
         description: ''
         percent: 40
@@ -116,26 +116,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gardening
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Painting
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
+    percent: 80
+  - name: Bangla 
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
