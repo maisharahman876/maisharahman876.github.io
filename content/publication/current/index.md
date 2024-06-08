@@ -1,5 +1,5 @@
 ---
-title: "Quantum Computing"
+title: "Quantum Cryptography"
 authors:
 - admin
 - Iftekhar Hakim Kaowsar
