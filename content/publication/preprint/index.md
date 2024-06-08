@@ -19,13 +19,7 @@ publication_types: ["Targeting to submit it in an upcoming conference"]
 # publication: ""
 # publication_short: ""
 
-abstract: The sharing of personal health records can be beneficial to diagnosis and medical research. Currently most of the health record schemes are fully dependent on third-party
-cloud service providers, which is not secure enough because there is a high risk of
-leaking confidential health data. Blockchain provides a better solution for storing and
-sharing data because of its decentralized and tamper-proof features. We proposed a
-new Blockchain-based personal healthcare data storage and sharing scheme. We used
-highly secure and efficient encryption-decryption mechanisms along with blockchain
-to tackle the risk of privacy disclosure.
+abstract: The sharing of personal health records can be beneficial to diagnosis and medical research. Currently most of the health record schemes are fully dependent on third-party cloud service providers, which is not secure enough because there is a high risk of leaking confidential health data. Blockchain provides a better solution for storing and sharing data because of its decentralized and tamper-proof features. We proposed a new Blockchain-based personal healthcare data storage and sharing scheme. We used highly secure and efficient encryption-decryption mechanisms along with blockchain to tackle the risk of privacy disclosure.
 
 
 

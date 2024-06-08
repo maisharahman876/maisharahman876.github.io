@@ -34,7 +34,7 @@ publication_short: In *SCAM*
 abstract: Prior works have developed transformer-based language learning models to automatically generate source code for a task without compilation errors. The datasets used to train these techniques include samples from open source projects which may not be free of security flaws, code smells, and violations of standard coding practices. Therefore, we investigate to what extent code smells are present in the datasets of coding generation techniques and verify whether they leak into the output of these techniques. To conduct this study, we used Pylint and Bandit to detect code smells and security smells in three widely used training sets (CodeXGlue, APPS, and Code Clippy). We observed that Pylint caught 264 code smell types, whereas Bandit located 44 security smell types in these three datasets used for training code generation techniques. By analyzing the output from ten different configurations of the open-source fine-tuned transformer-based GPT-Neo 125M parameters model, we observed that this model leaked the smells and non-standard practices to the generated source code. When analyzing GitHub Copilot's suggestions, a closed source code generation tool, we observed that it contained 18 types of code smells, including substandard coding patterns and 2 security smell types.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Security
