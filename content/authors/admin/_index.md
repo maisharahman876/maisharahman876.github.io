@@ -51,7 +51,7 @@ education:
     date_start: 2018-03-31
     date_end: 2023-05-30
     summary: |
-      GPA: 3.68/4.0
+      CGPA: 3.68/4.0
 
       Courses included:
       - Computer Security
@@ -72,7 +72,7 @@ work:
     company_name: Therap BD LTD
     company_url: 'https://therapbd.com/'
     company_logo: ''
-    date_start: 2023-07-15
+    date_start: 2023-06-15
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -87,15 +87,27 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name:  C, C++, Java, Python, SQL, Flex, Bison , Assembly , Shell, Javascript, Html, Css
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: : Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Oracle , MongoDB, MySQL, PostgreSQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Windows, Linux (Ubuntu 20.04 & Kali)
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name : Git
         description: ''
         percent: 40
         icon: circle-stack
