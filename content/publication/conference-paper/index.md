@@ -9,7 +9,7 @@ authors:
   - Mohammed Latif Siddiq
   - Shafayat H Majumder
   - Sourov Jajodia
-  -  Joanna CS Santos
+  - Joanna CS Santos
 
 # Author notes (optional)
 author_notes:
