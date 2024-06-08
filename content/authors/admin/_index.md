@@ -91,7 +91,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: : Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap
+      - name: Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap
         description: ''
         percent: 100
         icon: chart-bar
