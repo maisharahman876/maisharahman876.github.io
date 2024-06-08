@@ -22,9 +22,9 @@ main:
 #     url: projects/
 #     weight: 30
 
-#   - name: Honors
-#     url: /#honors
-#     weight: 13
+  - name: Honors
+    url: /#honors
+    weight: 13
 
 #   - name: Achievements 
 #     url: achievements/

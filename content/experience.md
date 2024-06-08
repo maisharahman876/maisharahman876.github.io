@@ -26,7 +26,7 @@ sections:
     design:
       show_skill_percentage: false
   - block: resume-awards
-    id : awards
+    id : honors
     content:
       title: Honors & Awards
       username: admin

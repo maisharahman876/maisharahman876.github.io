@@ -144,9 +144,11 @@ awards:
   - title: vGHC 21 Scholarship
     url: https://ghc.anitab.org/
     awarder: GHC
+    date: '2021-09-01'
     summary: |
      Scholarship granted to only afew selected candidates based onmerit to attend the Grace Hopper Celebration of Women in stem, a conference that brings together women in tech from around the world.
   - title: Barishal Board General Scholarship (HSC)
+    date: '2018-05-20'
     awarder: Government
     #icon: edx
     summary: |
@@ -154,11 +156,23 @@ awards:
   - title: Barishal Board General Scholarship (SSC)
     #url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     #certificate_url: https://www.datacamp.com
-    #date: '2023-01-21'
+    date: '2016-03-10'
     awarder: Government
     #icon: datacamp
     summary: |
-      : Scholarship grantedfor outstanding performance in the Secondary School Certificate exam of Bangladesh.
+      Scholarship grantedfor outstanding performance in the Secondary School Certificate exam of Bangladesh.
+  - title: Barishal Board General Scholarship (JSC)
+    awarder: Government
+    date: '2012-11-5'
+    #icon: edx
+    summary: |
+      Scholarship granted for outstanding performance in the Junior School Certificate exam of Bangladesh.
+  - title: Barishal Board Talentpool Scholarship (PSC)
+    awarder: Government  
+    date: '2010-01-10'
+    #icon: edx
+    summary: |
+      Scholarship granted for outstanding performance in the Primary School Certificate exam of Bangladesh.
 ---
 
 ## About Me
