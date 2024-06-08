@@ -85,7 +85,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-id: skills
   - name: Technical Skills
     items:
       - name: Programming Languages
