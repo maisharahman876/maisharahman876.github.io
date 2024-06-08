@@ -87,28 +87,28 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name:  C, C++, Java, Python, SQL, Flex, Bison , Assembly , Shell, Javascript, Html, Css
-        description: ''
+      - name: Programming Languages
+        description: ' C, C++, Java, Python, SQL, Flex, Bison , Assembly , Shell, Javascript, Html, Css'
         percent: 80
         icon: code-bracket
-      - name: Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap
-        description: ''
+      - name: Frameworks
+        description: 'Spring, Django , Node.js , React.js, JavaFX , React-Native, Bootstrap'
         percent: 100
         icon: chart-bar
-      - name: Oracle , MongoDB, MySQL, PostgreSQL
-        description: ''
+      - name: Database
+        description: 'Oracle , MongoDB, MySQL, PostgreSQL'
         percent: 40
         icon: circle-stack
-      - name: Windows, Linux (Ubuntu 20.04 & Kali)
-        description: ''
+      - name: Operating Systems
+        description: 'Windows, Linux (Ubuntu 20.04 & Kali)'
         percent: 40
         icon: devices
-      - name : Git
-        description: ''
+      - name : Version Control
+        description: ' Git'
         percent: 40
         icon: fa-brands fa-git
-      - name: Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket
-        description: ''
+      - name: Others
+        description: 'Wireshark, Hibernate, JPA, NS3, OpenGL, Adobe Illustrator, Autocad, Github, Bitbucket'
         percent: 40
         icon: extension
 
