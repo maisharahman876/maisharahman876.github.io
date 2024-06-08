@@ -102,7 +102,7 @@ skills:
       - name: Windows, Linux (Ubuntu 20.04 & Kali)
         description: ''
         percent: 40
-        icon: circle-stac
+        icon: devices.svg
       - name : Git
         description: ''
         percent: 40
