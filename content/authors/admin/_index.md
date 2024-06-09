@@ -129,11 +129,11 @@ skills:
         percent: 60
         icon: person-simple-walk
 
-# languages:
-#   - name: English
-#     percent: 80
-#   - name: Bangla 
-#     percent: 100
+languages:
+  - name: English
+    percent: 80
+  - name: Bangla 
+    percent: 100
 
 
 # Awards.
