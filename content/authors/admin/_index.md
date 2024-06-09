@@ -167,15 +167,15 @@ awards:
     #icon: edx
     summary: |
       Scholarship granted for outstanding performance in the Primary School Certificate exam of Bangladesh.
-  - title: 1st Runners Up of Creative talent Hunt in Barguna District.
+  - title: 1st Runners Up of Creative talent Hunt in Barguna District
     awarder: Government
     summary: |
       It's an annual competetion throughout the country to find champions in different categories like Math & Computer, General knowledge etc. 
-  - title: Top 30 in National Cyber Drill 2022 and University Cyber Drill 2022.
+  - title: Top 30 in National Cyber Drill 2022 and University Cyber Drill 2022
     awarder: BGD E-GOV CIRT
     url : https://www.cirt.gov.bd/
     summary: |
-      National CTF Competition arranged by ICT Division of Bangladesh. 
+      National CTF Competition arranged by ICT Division of Bangladesh
   - title: Top 40 in Flag Hunt CTF 2022 and Leetcon CTF 2022.
     awarder: CTF Community, Bangladesh
   
