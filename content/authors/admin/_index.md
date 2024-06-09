@@ -177,10 +177,15 @@ awards:
     date: '2022-01-15'
     url : https://www.cirt.gov.bd/
     summary: |
-      National CTF Competition arranged by ICT Division of Bangladesh
+      National CTF Competition arranged by ICT Division of Bangladesh.
   - title: Top 40 in Flag Hunt CTF 2022 and Leetcon CTF 2022
     awarder: CTF Community, Bangladesh
     date: '2022-05-08'
+  - title:  Microsoft Tech Resilience Mentorship Program
+    awarder: Microsoft
+    date: '2020-04-08'
+    summary: |
+      A great opportunity to talk to the developers of Microsoft and get guidelines.
   
 ---
 
