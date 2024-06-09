@@ -55,13 +55,6 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: achievements
-    content:
-      title: Achievements & Participations
-      filters:
-        folders: achievement
-          - 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
