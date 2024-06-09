@@ -1,16 +1,13 @@
 ---
-title: IOT Based Health Monitoring System
-date: 2021-07-29
-external_link: https://github.com/maisharahman876/Health-Monitoring-System
+title: A Simple C Compiler
+date: 2021-07-14
+external_link: https://github.com/maisharahman876/Compiler-CSE-310-/
 tags:
-  - ATMega32
-  - Arduino Uno
-  - Wifi Module
-  - GSM Module 
-  - Sensors
+  - C++, YACC, Lex, Shell
 ---
 
- Developed amicrocontroller-based healthmonitoring system. It can continuously monitor patient’s health conditions such as body temperature, pulse and send this information to doctors and patients relatives via message. It will also automatically upload all information on the cloud through the WiFi module.
+A simple compiler for the C language. It is a partial compiler which implements symbol
+table, a lexer, a parser, and a code generator.
 
 
 <!--more-->

@@ -1,16 +1,13 @@
 ---
-title: IOT Based Health Monitoring System
-date: 2021-07-29
-external_link: https://github.com/maisharahman876/Health-Monitoring-System
+title: Ray Tracing
+date: 2022-09-02
+external_link: https://github.com/maisharahman876/Computer-Graphics/tree/main/Offline-3/
 tags:
-  - ATMega32
-  - Arduino Uno
-  - Wifi Module
-  - GSM Module 
-  - Sensors
+  - C++
+  - OpenGL
 ---
 
- Developed amicrocontroller-based healthmonitoring system. It can continuously monitor patient’s health conditions such as body temperature, pulse and send this information to doctors and patients relatives via message. It will also automatically upload all information on the cloud through the WiFi module.
+This project is an implementation of image generation of 3D geometric shapes using ray tracing with appropriate illumination techniques with multilevel of reflections.
 
 
 <!--more-->

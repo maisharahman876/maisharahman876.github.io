@@ -7,7 +7,7 @@ tags:
   - Python
 ---
 
- • A simple implementation of a Convolutional Neural Network (CNN) from scratch using only numpy. The network is trained on theNumtaDB dataset to recognize Bengali numerical digits.
+ A simple implementation of a Convolutional Neural Network (CNN) from scratch using only numpy. The network is trained on theNumtaDB dataset to recognize Bengali numerical digits.
 
 
 
