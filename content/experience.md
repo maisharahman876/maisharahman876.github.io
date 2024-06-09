@@ -30,4 +30,8 @@ sections:
     content:
       title: Honors & Awards
       username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
