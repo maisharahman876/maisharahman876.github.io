@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Maisha Rahman Mim}'
+    notice: '© {year} Maisha Rahman Mim'
 
 # Localization
 locale:
