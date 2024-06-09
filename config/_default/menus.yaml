@@ -26,9 +26,9 @@ main:
     url: experience/#honors
     weight: 15
 
-#   - name: Achievements 
-#     url: /#achievements
-#     weight: 20
+  - name: Achievements 
+    url: /#achievements
+    weight: 20
 
 # - name: Leadership
 #     url: /#leadership
