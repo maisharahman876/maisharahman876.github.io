@@ -173,6 +173,12 @@ awards:
     #icon: edx
     summary: |
       Scholarship granted for outstanding performance in the Primary School Certificate exam of Bangladesh.
+
+achievements:
+  - title: 1st Runners Up of Creative talent Hunt in Barguna District.
+    awarder: Government
+    summary: |
+      It's an annual competetion throughout the country to find champions in different categories like Math & Computer, General knowledge etc. 
 ---
 
 ## About Me
