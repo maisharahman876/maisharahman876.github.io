@@ -55,7 +55,7 @@ sections:
     design:
       view: citation
 
-  - block: resume-achievements
+  - block: resume-awards
     id: achievements
     content:
       title: Achievements & Participations
