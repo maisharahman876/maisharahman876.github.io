@@ -1,6 +1,6 @@
 ---
 title: Super Resolution of Images
-# date: 2023-08-26
+date: 2023-02-26
 external_link: https://github.com/maisharahman876/Super-Resolution-of-Images
 tags:
   -  ML

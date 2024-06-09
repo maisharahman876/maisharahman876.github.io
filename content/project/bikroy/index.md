@@ -1,6 +1,6 @@
 ---
 title: E-commerce Website
-# date: 2023-08-26
+date: 2020-12-12
 external_link: https://github.com/maisharahman876/bikroy
 tags:
   - Django
