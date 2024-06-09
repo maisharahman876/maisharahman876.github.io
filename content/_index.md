@@ -55,9 +55,19 @@ sections:
     design:
       view: citation
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
     id: achievements
     content:
-      title: Achievements & Participations
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
