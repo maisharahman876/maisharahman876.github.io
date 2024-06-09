@@ -55,11 +55,13 @@ sections:
     design:
       view: citation
 
-  - block: resume-awards
+  - block: collection
     id: achievements
     content:
       title: Achievements & Participations
-      username: admin
+      filters:
+        folders: achievement
+          - 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

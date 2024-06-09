@@ -28,10 +28,6 @@ sections:
   - block: resume-awards
     id : honors
     content:
-      title: Honors & Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
+      title: Honors & Achievements
       username: admin
 ---

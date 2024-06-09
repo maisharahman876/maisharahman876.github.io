@@ -22,13 +22,13 @@ main:
     url: projects/
     weight: 13
 
-  - name: Honors
+  - name: Honors & Achievements
     url: experience/#honors
     weight: 15
 
-  - name: Achievements 
-    url: /#achievements
-    weight: 40
+  # - name: Achievements 
+  #   url: /#achievements
+  #   weight: 40
 
 # - name: Leadership
 #     url:leadership/
