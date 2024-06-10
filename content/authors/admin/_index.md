@@ -203,4 +203,6 @@ awards:
 
 ## About Me
 
-I am a Maisha. I am a Software Engineer and a doctoral candidate. I am a very hard working and passionate person. I love to explore new things - take challenges and gather new experiences. I like to work in a team and lead people. 
+I am a Software Engineer with a burning passion for research, driven by a relentless pursuit of knowledge. I thrive on challenges, constantly seeking out new experiences to broaden my understanding. I possess a strong work ethic and am dedicated to pushing the boundaries of what is possible in my field. Collaboration is at the heart of my approach, as I enjoy both contributing to a team and leading others towards shared goals.
+
+maisharahman876 AT gmail DOT com
