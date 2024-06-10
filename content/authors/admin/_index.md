@@ -75,8 +75,8 @@ education:
       GPA: 5.00/5.00
   - area: Secondary School Certificate (SSC)
     institution: Barguna Collegiate High School
-    date_start: 2015-02-28
-    date_end: 2010-01-01
+    date_start: 2010-01-01
+    date_end: 2015-02-28
     summary: |
       GPA: 5.00/5.00
 work:
