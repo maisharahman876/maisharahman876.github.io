@@ -55,7 +55,7 @@ education:
 
       Courses included:
       - Computer Security
-      -  Software Engineering
+      - Software Engineering
       - Machine Learning
       - Computer Architecture
       -  Microprocessors-
@@ -67,6 +67,18 @@ education:
       - Computer Graphics
       - Compiler
       - Simulation & Modelling
+  - area: Higher Secondary School Certificate (HSC)
+    institution: Barguna Government College
+    date_start: 2015-03-01
+    date_end: 2017-04-30
+    summary: |
+      GPA: 5.00/5.00
+  - area: Secondary School Certificate (SSC)
+    institution: Barguna Collegiate High School
+    date_start: 2015-02-28
+    date_end: 2010-01-01
+    summary: |
+      GPA: 5.00/5.00
 work:
   - position: Associate Software Engineer
     company_name: Therap BD LTD
