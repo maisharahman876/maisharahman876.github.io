@@ -203,6 +203,6 @@ awards:
 
 ## About Me
 
-I am a Software Engineer with a burning passion for research, driven by a relentless pursuit of knowledge. I thrive on challenges, constantly seeking out new experiences to broaden my understanding. I possess a strong work ethic and am dedicated to pushing the boundaries of what is possible in my field. Collaboration is at the heart of my approach, as I enjoy both contributing to a team and leading others towards shared goals.
+I am a Software Engineer with a passion for research. I love to take new challenges - gather new experiences. I possess a strong work ethic and am dedicated to my work. I enjoy both contributing and leading others towards shared goals.
 
 maisharahman876 AT gmail DOT com
