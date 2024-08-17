@@ -23,7 +23,7 @@ main:
     weight: 13
 
   - name: Honors & Achievements
-    url: experience/#honors
+    url: /#honors
     weight: 15
 
   # - name: Achievements 

@@ -147,12 +147,18 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Deans List Scholarship
+    url: https://buet.ac.bd/
+    awarder: Bangladesh University of Engineering and Technology
+    date: '2022-01-01'
+    summary: |
+     Scholarship Awarded for obtaining an average GPA of 3.75 or above in two consecutive terms.
   - title: vGHC 21 Scholarship
     url: https://ghc.anitab.org/
     awarder: GHC
     date: '2021-09-01'
     summary: |
-     Scholarship granted to only afew selected candidates based onmerit to attend the Grace Hopper Celebration of Women in stem, a conference that brings together women in tech from around the world.
+     Scholarship granted to only a few selected candidates based onmerit to attend the Grace Hopper Celebration of Women in stem, a conference that brings together women in tech from around the world.
   - title: Barishal Board General Scholarship (HSC)
     date: '2018-05-20'
     awarder: Government
